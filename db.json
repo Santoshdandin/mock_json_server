@@ -324,14 +324,14 @@
        }
        ],
     
-    "chickens": [
+    "chicken": [
         {
             "id":21,
             "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ac53a507-4bdd-92cd-ee0b-c96281e04999/original/chicken-curry-cut.jpg?format=webp",
             "name":"Chicken Curry Cut - Small Pieces",
             "weight":"500gms",
             "price":170,
-            "type":"Broiler",
+            "type":"Curry cuts",
             "bone":"Without bone",
             "size":"small",
             "suited":"Grill",
@@ -346,7 +346,7 @@
           "name":"Chicken Curry Cut - Small Pieces(Large Pack)",
           "weight":"1000gms",
           "price":345,
-          "type":"Broiler",
+          "type":"Curry cuts",
           "bone":"Without bone",
           "size":"large",
           "suited":"Grill",
@@ -361,7 +361,7 @@
           "name":"Chicken Curry Cut - Large Pieces",
           "weight":"500gms",
           "price":179,
-          "type":"Broiler",
+          "type":"Curry cuts",
           "bone":"Without bone",
           "size":"large",
           "suited":"Curry",
@@ -376,7 +376,7 @@
           "name":"Chicken Curry Cut - Large Pieces(Large Pack)",
           "weight":"1000gms",
           "price":345,
-          "type":"Country",
+          "type":"Curry cuts",
           "bone":"Without bone",
           "size":"large",
           "suited":"Stuffing",
@@ -391,7 +391,7 @@
           "name":"Chicken Leg Curry Cut - Large Pieces",
           "weight":"300gms",
           "price":197,
-          "type":"Kadaknath",
+          "type":"Curry cuts",
           "bone":"Without bone",
           "size":"large",
           "suited":"Stuffing",
@@ -406,7 +406,7 @@
           "name":"Chicken Thigh Boneless",
           "weight":"450gms",
           "price":339,
-          "type":"Broiler",
+          "type":"Curry cuts",
           "bone":"Without bone",
           "size":"large",
           "suited":"Stuffing",
@@ -421,10 +421,10 @@
           "name":"Chicken Leg With Thigh",
           "weight":"550gms",
           "price":339,
-          "type":"Broiler",
+          "type":"Speciality cuts",
           "bone":"Without bone",
           "size":"large",
-          "suited":"Stuffing",
+          "suited":"Roast",
           "des":"Skinless and bone-in chicken thigh and drumstick with a rich flavour and succulent bite",
           "description":"Skinless and bone-in, Chicken Leg Whole from Licious consists of both, the thigh and drumstick. This cut of the chicken includes dark meat that is rich in flavour and has a moist texture. Packed with proteins, vitamins, and minerals, Chicken Leg can be an ideal cut for a wholesome meal. Perfect for slow-cooking, Chicken Leg can also be baked, grilled, or braised. When cooked, Chicken Leg turns juicy and succulent. Buy online from Licious and get fresh Chicken Leg delivered at your doorstep."
   
@@ -436,16 +436,197 @@
           "name":"Chicken 65 Fry Cut",
           "weight":"250gms",
           "price":119,
-          "type":"Broiler",
+          "type":"Speciality cuts",
           "bone":"Without bone",
           "size":"large",
-          "suited":"Stuffing",
+          "suited":"Roast",
           "des":"Skinless and bone-in chicken thigh and drumstick with a rich flavour and succulent bite",
           "description":"Skinless and bone-in, Chicken Leg Whole from Licious consists of both, the thigh and drumstick. This cut of the chicken includes dark meat that is rich in flavour and has a moist texture. Packed with proteins, vitamins, and minerals, Chicken Leg can be an ideal cut for a wholesome meal. Perfect for slow-cooking, Chicken Leg can also be baked, grilled, or braised. When cooked, Chicken Leg turns juicy and succulent. Buy online from Licious and get fresh Chicken Leg delivered at your doorstep."
   
-      }
-        
-    
+      },
+
+      {
+        "id":29,
+        "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/eb0de06a-d96a-c786-1de9-1bd9cadbb89b/original/ChickenLollipopPiecesHeroShot.jpg?format=webp",
+        "name":"Chicken Lollipop - Pack of 10",
+        "weight":"250gms",
+        "price":199,
+        "type":"Speciality cuts",
+        "bone":"Without bone",
+        "size":"large",
+        "pieces": 10,
+        "suited":"Curry",
+        "des":"Special Nakhre - cut, cleaned & no prep needed!",
+        "description":"To create the classic chicken lollipop shape, our Nakhrebaaz experts cut loose and push down chicken wing meat towards the end of the bone; this process is known as frenching. Marinate these lollipops the way you like, pan/deep-fry or bake them and enjoy tender Drums of Heaven! They are cut & cleaned by experts so you can cook them straight off the pack."
+
+    },
+
+    {
+      "id":30,
+      "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/68e9d547-67bb-82da-5fbf-9663fe61c64c/original/Chicken_Gizzard_Hero_Shotjpg.jpg?format=webp",
+      "name":"Chicken Gizzard",
+      "weight":"300gms",
+      "price":69,
+      "type":"Offals",
+      "bone":"Without bone",
+      "size":"large",
+      "pieces": 10,
+      "suited":"Biryani",
+      "des":"12-14 pieces of Chicken Gizzard",
+      "description":"Cut from the digestive tract of the chicken, gizzards are slightly chewy and require a longer cooking time. But they taste very much like chicken thighs, just a little richer. They are popularly enjoyed breadcrumbed and then deep-fried. Chicken Gizzard Curry with an onion gravy base is also a popular recipe. Crafted by experts, they are cleaned for you to use it straight off the pack."
+  },
+
+  {
+    "id":31,
+    "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a10fc624-df33-07d9-c1e2-be515a700136/original/Chicken_Liver_Hero_Shot.jpg?format=webp",
+    "name":"Chicken Liver",
+    "weight":"350gms",
+    "price":75,
+    "type":"Offals",
+    "bone":"Without bone",
+    "size":"large",
+    "pieces": 10,
+    "suited":"Deep fry",
+    "des":"Special cuts & special nakhre: tender juicy Chicken Liver",
+    "description":"Cut from the digestive tract of the chicken, gizzards are slightly chewy and require a longer cooking time. But they taste very much like chicken thighs, just a little richer. They are popularly enjoyed breadcrumbed and then deep-fried. Chicken Gizzard Curry with an onion gravy base is also a popular recipe. Crafted by experts, they are cleaned for you to use it straight off the pack."
+},
+
+{
+  "id":32,
+  "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/9e79990d-3c1f-7fd5-506f-6ae2b0cbb9f9/original/1598586043.2742--2020-08-2809_10_43--472.jpeg?format=webp",
+  "name":"Chicken Mince Keema - 900 gms",
+  "weight":"900gms",
+  "price":568,
+  "type":"Combos",
+  "bone":"Without bone",
+  "size":"large",
+  "pieces": 10,
+  "suited":"Biryani",
+  "des":"Combo of fresh handcrafted Chicken",
+  "description":"Popularly known as Keema, Chicken Mince is your perfect companion on culinary adventures. Fresh chicken breast fillets are ground to perfection without any fragments of bone. This versatile meat variant can transform simple meals into a sumptuous indulgence."
+},
+
+{
+  "id":33,
+  "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/45f435a7-e342-6df7-a418-6eb139e076e6/original/Chicken-Drumstick+Chicken-Chatpata-Pakora.jpg?format=webp",
+  "name":"Chicken Drumstick - Pack Of 6 & Chicken Chatpata Pakora Combo",
+  "weight":"900gms",
+  "price":477,
+  "type":"Combos",
+  "bone":"Without bone",
+  "size":"large",
+  "pieces": 10,
+  "suited":"Roast",
+  "des":"Chicken Drumstick & Chicken Chatpata Pakora Combo",
+  "description":"Our skinless and bone-in Chicken Drumsticks are cut from the lower leg portions. These juicy portions are flavourful and tender while being one of the fleshiest cuts of the bird. Thoroughly cleaned and cut, these drumsticks are ideal for grilled or fried dishes. The ready-to-cook Chicken Chatpata Pakora has just the right amount of tanginess and spice for an indulgent treat. Made with boneless strips of chicken, all you need to do is deep fry until golden brown. Drizzle lime juice, sprinkle chaat masala and serve hot with pudina chutney on the side."
+},
+
+{
+  "id":34,
+  "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3e24cc39-9900-c195-0289-67dc720c76e6/original/CBBCBCS.jpg?format=webp",
+  "name":"Chicken Breast Fillet & Chunky Butter Chicken Spread Combo",
+  "weight":"450gms",
+  "price":457,
+  "type":"Combos",
+  "bone":"Without bone",
+  "size":"large",
+  "pieces": 10,
+  "suited":"Bake",
+  "des":"Chicken Breast Fillet & Chunky Butter Chicken Spread Combo",
+  "description":"With our Chicken Breast Fillet - Thinly Sliced & Chunky Butter Chicken Spread Combo, there’s no reason why your meal can't be special! Whip up a delicious and filling grilled chicken with the Chicken Breast Fillet - Thinly Sliced and add Chunky Butter Chicken Spread to rotis and parathas for a delectable treat. Our Chicken Breast Fillet is from the breast bone of the bird. The fillet cut is thinly sliced, skinless and perfect for even cooking on the pan. Coat a flavourful spice rub, pan-fry or bake the fillet to relish this versatile cut."
+},
+
+{
+  "id":35,
+  "imgUrl":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_1xtke42o3dz/1/prod_display_image/1599551867.8131--2020-09-0813:27:47--472?format=webp",
+  "name":"Chicken Breast Boneless (450gms) and Chicken Drumstick - Pack Of 6 Combo",
+  "weight":"450gms",
+  "price":530,
+  "type":"Combos",
+  "bone":"Without bone",
+  "size":"large",
+  "pieces": 10,
+  "suited":"Pan fry",
+  "des":"Make chicken steak for dinner & drumstick for snacks.",
+  "description":"Feed a crowd with this loaded chicken combo that comes with juicy chicken breast and tender chicken drumsticks. Chicken Drumsticks are dark, tender meat with bone from the lower leg of the chicken, and have a distinct silky texture offering delicious juiciness when cooked. Chicken Breast Boneless is a meatier and versatile cut of chicken with a supple texture. The tender flesh offers a rich flavour when cooked."
+},
+
+{
+  "id":36,
+  "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/242a6520-4fd9-692e-7708-5e09f0a96e43/original/Kozhi-Milagu-Varuval-(Chicken-Pepper-Dry)--Tag.jpg?format=webp",
+  "name":"Chicken Pepper Dry | Ready To Cook",
+  "weight":"500gms",
+  "price":269,
+  "type":"Ready to cook",
+  "bone":"Without bone",
+  "size":"large",
+  "pieces": "10-13",
+  "suited":"Bake",
+  "des":"Freshly marinated Bone-in chicken Moderately spicy",
+  "description":"All you need to do is cook it in a pan or your grill for 15 minutes and enjoy. It is made with our fresh chicken and kept chilled between 0-4°C so it retains freshness. It's never frozen and can go directly from the pack into your pan. Order freshly marinated chicken pepper dry online and get it delivered to your home."
+},
+
+{
+  "id":37,
+  "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/d35e8cfa-3e43-2df4-ec90-797c6c1e3d46/original/Peppery-Chicken-Salami-1.jpg?format=webp",
+  "name":"Peppery Chicken Salami| Ready to Eat",
+  "weight":"200gms",
+  "price":315,
+  "type":"Ready to cook",
+  "bone":"Without bone",
+  "size":"large",
+  "pieces": "10-13",
+  "suited":"Roast",
+  "des":"Chicken salami with the heat of black pepper and red chilli powder.",
+  "description":"Spiced to a perfect level with black pepper and red chilli powder, the Peppery Chicken Salami from Licious is a delicious ready-to-eat treat for all meat lovers. Lean and flavourful, these salamis can be a perfect addition to your pizza, sandwich, burger, or salad. With low fat content when compared to red meat salamis, chicken salamis are a good source of proteins and calcium . Buy Peppery Chicken Salami online and get doorstep delivery."
+},
+
+{
+  "id":38,
+  "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/92457f9b-9683-352e-22d1-166514f60c26/original/250gms_(2).jpg?format=webp",
+  "name":"Hyderabadi Chicken Biryani | Meat & Masala Mix",
+  "weight":"500gms",
+  "price":399,
+  "type":"Ready to cook",
+  "bone":"Without bone",
+  "size":"large",
+  "pieces": "1 unit",
+  "suited":"Biryani",
+  "des":"Aromatic, spicy, rich and meaty",
+  "description":"1, 2, 3, biryani ready! Enjoy delicious, juicy chicken marinated in aromatic spices in this Hyderabadi classic. The Licious ready-to-cook Hyderabadi Chicken Biryani is all you need to bring the flavours of this southern city to your table. Batch crafted by master chefs, tender chicken has been blended with an assortment of masalas for you to make a kilo of this delectable biryani. Cook up this classic at home in 3 simple steps. You don't have to worry about what pieces you'll get as we've included the best ones in the pack already. In each pack, you'll find two separate sachets of biryani seasoning that’s sure to elevate this dish. You can't go wrong with long-grained, superior quality basmati rice, that's why we recommend it for this dish. Grab your pressure cooker and get cooking!"
+},
+
+{
+  "id":39,
+  "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/79c12695-de31-056b-0f0e-b6572b609eb1/original/Chicken-Breast-Fillet---Thinly-Sliced-.jpg?format=webp",
+  "name":"Chicken Breast Fillet - Thinly Sliced",
+  "weight":"450gms",
+  "price":339,
+  "type":"bonless & mince",
+  "bone":"Without bone",
+  "size":"large",
+  "pieces": "1 unit",
+  "suited":"Stuffing",
+  "des":"Moist tender chicken best for steaks, and BBQ chicken.",
+  "description":"Cut from the breast bone, including chicken tenders, this cut is skinless and ideal if you enjoy cuts of lean meat. Chicken breasts cook rather quickly (because they don't contain much fat) and can be cooked in a variety of ways: grilled, baked, fried, pan-fried and more! No wonder it's so popular. Some popular chicken breast recipes include Chicken Tikka, Butter Chicken, Baked Chicken Breast, Lemon Chicken etc. Try the one that you are in the mood for today's meal."
+},
+
+{
+  "id":40,
+  "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3e9023d4-e2f7-2fe6-c68f-75014733ff7e/original/Chicken_Mince_Large_Pack_Hero_Shot.jpg?format=webp",
+  "name":"Chicken Mince (Keema)",
+  "weight":"450gms",
+  "price":299,
+  "type":"bonless & mince",
+  "bone":"Without bone",
+  "size":"large",
+  "pieces": "1 unit",
+  "suited":"Curry",
+  "des":"Tender, perfectly ground meat from our Nakhrebaaz team!",
+  "description":"This perfectly ground, succulent, juicy meat comes from our dedicated team of Nakhrebaaz! Whip up delicious momos, meatballs, burger patties, Keema curry & more. Made with fresh, cleaned chicken breast that has been ground to perfection, this cut makes it easy for you to whip up dishes like Chicken Dumplings, Spaghetti and Meatballs, Chicken Pot Pie and more within minutes! Licious hens are raised on bio-secure farms and are antibiotic residue-free. Our chicken is stored in temperature-controlled conditions, between 0-4?, to ensure that it is chilled, never frozen. Order Licious Chicken Mince (Keema) online and get it home delivered."
+}
+
+
     ]
    
     
