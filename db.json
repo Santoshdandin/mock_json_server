@@ -326,17 +326,9 @@
     
     "chickens": [
         {
-          "id":'21',
-        'imgUrl':"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ac53a507-4bdd-92cd-ee0b-c96281e04999/original/chicken-curry-cut.jpg?format=webp",
-        'name':'Chicken Curry Cut - Small Pieces',
-        'weight':'500gms',
-        'price':170,
-        'type':'Broiler',
-        'bone':'Without bone',
-        'size':'small',
-        'suited':'Grill',
-        'des':'Fresh Nakhre & fresh bone-in & boneless chicken cuts',
-        'description':"A combination of dark and white meat, the Chicken Curry Cut (small) includes two leg cut into two, two wing without tip and two breast quarter with backbone. With a fresh, natural flavour and plump texture, this package includes both bone-in and boneless pieces. These pieces turn juicy and tender when cooked, which makes them ideal for making chicken curries. Order farm fresh and hormone-free Chicken Curry Cut pieces online from Licious and get home delivery."
+          "id":21
+       
+        
         }
     
     ]
