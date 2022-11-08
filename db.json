@@ -326,7 +326,15 @@
     
     "chickens": [
         {
-          "id":21
+          "id":'21',
+        'imgUrl':"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ac53a507-4bdd-92cd-ee0b-c96281e04999/original/chicken-curry-cut.jpg?format=webp",
+        'name':'Chicken Curry Cut - Small Pieces',
+        'weight':'500gms',
+        'price':170,
+        'type':'Broiler',
+        'bone':'Without bone',
+        'size':'small',
+        'suited':'Grill'
        
         
         }
