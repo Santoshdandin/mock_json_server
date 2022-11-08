@@ -322,9 +322,17 @@
        "save":"14%(₹1150)",
        "rating":"3"
        }
-       ]
+       ],
     
+    "chickens": [
+        {
+          "id": 1,
+          "name": "Gertrudis Tatterton",
+          "age": 18,
+          "email": "gtatterton0@ehow.com"
+        }
     
+    ]
    
     
     
