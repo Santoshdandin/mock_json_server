@@ -330,7 +330,7 @@
             "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ac53a507-4bdd-92cd-ee0b-c96281e04999/original/chicken-curry-cut.jpg?format=webp",
             "name":"Chicken Curry Cut - Small Pieces",
             "weight":"500gms",
-            "price":170,
+            "price":"₹170",
             "type":"Curry cuts",
             "bone":"Without bone",
             "size":"small",
@@ -345,7 +345,7 @@
           "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4cad2ee9-9257-9109-62a1-da4082b2cf36/original/sho.jpg?format=webp",
           "name":"Chicken Curry Cut - Small Pieces(Large Pack)",
           "weight":"1000gms",
-          "price":345,
+          "price":"₹345",
           "type":"Curry cuts",
           "bone":"Without bone",
           "size":"large",
@@ -360,7 +360,7 @@
           "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ca5adea0-fcd4-9787-416a-7b95b3a670b4/original/ChickenLC.jpg?format=webp",
           "name":"Chicken Curry Cut - Large Pieces",
           "weight":"500gms",
-          "price":179,
+          "price":"₹179",
           "type":"Curry cuts",
           "bone":"Without bone",
           "size":"large",
@@ -375,7 +375,7 @@
           "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7c01addb-3cff-9c0a-fa68-d4d6d41de5f5/original/large.jpg?format=webp",
           "name":"Chicken Curry Cut - Large Pieces(Large Pack)",
           "weight":"1000gms",
-          "price":345,
+          "price":"₹345",
           "type":"Curry cuts",
           "bone":"Without bone",
           "size":"large",
@@ -390,7 +390,7 @@
           "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/cbede953-c94c-3c48-a9a2-bad815fa1c3a/original/ChickenLegCurryCutpiecesHeroShot.jpg?format=webp",
           "name":"Chicken Leg Curry Cut - Large Pieces",
           "weight":"300gms",
-          "price":197,
+          "price":"₹197",
           "type":"Curry cuts",
           "bone":"Without bone",
           "size":"large",
@@ -405,7 +405,7 @@
           "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ffd4144f-25a7-6f26-2d90-9a9db0332dda/original/Chicken_Thigh_Boneless_Hero_Shot.jpg?format=webp",
           "name":"Chicken Thigh Boneless",
           "weight":"450gms",
-          "price":339,
+          "price":"₹339",
           "type":"Curry cuts",
           "bone":"Without bone",
           "size":"large",
@@ -420,7 +420,7 @@
           "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/0bf4753a-a58d-fbb3-9f72-234700c27b97/original/ChickenLegWholeWithThighHeroShot.jpg?format=webp",
           "name":"Chicken Leg With Thigh",
           "weight":"550gms",
-          "price":339,
+          "price":"₹339",
           "type":"Speciality cuts",
           "bone":"Without bone",
           "size":"large",
@@ -435,7 +435,7 @@
           "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/281aaac4-b1e4-d22b-9fcb-3b997327a06f/original/Chicken-65---Fry-Cut.jpeg?format=webp",
           "name":"Chicken 65 Fry Cut",
           "weight":"250gms",
-          "price":119,
+          "price":"₹119",
           "type":"Speciality cuts",
           "bone":"Without bone",
           "size":"large",
@@ -450,7 +450,7 @@
         "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/eb0de06a-d96a-c786-1de9-1bd9cadbb89b/original/ChickenLollipopPiecesHeroShot.jpg?format=webp",
         "name":"Chicken Lollipop - Pack of 10",
         "weight":"250gms",
-        "price":199,
+        "price":"₹199",
         "type":"Speciality cuts",
         "bone":"Without bone",
         "size":"large",
@@ -466,7 +466,7 @@
       "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/68e9d547-67bb-82da-5fbf-9663fe61c64c/original/Chicken_Gizzard_Hero_Shotjpg.jpg?format=webp",
       "name":"Chicken Gizzard",
       "weight":"300gms",
-      "price":69,
+      "price":"₹69",
       "type":"Offals",
       "bone":"Without bone",
       "size":"large",
@@ -481,7 +481,7 @@
     "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a10fc624-df33-07d9-c1e2-be515a700136/original/Chicken_Liver_Hero_Shot.jpg?format=webp",
     "name":"Chicken Liver",
     "weight":"350gms",
-    "price":75,
+    "price":"₹75",
     "type":"Offals",
     "bone":"Without bone",
     "size":"large",
@@ -496,7 +496,7 @@
   "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/9e79990d-3c1f-7fd5-506f-6ae2b0cbb9f9/original/1598586043.2742--2020-08-2809_10_43--472.jpeg?format=webp",
   "name":"Chicken Mince Keema - 900 gms",
   "weight":"900gms",
-  "price":568,
+  "price":"₹568",
   "type":"Combos",
   "bone":"Without bone",
   "size":"large",
@@ -511,7 +511,7 @@
   "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/45f435a7-e342-6df7-a418-6eb139e076e6/original/Chicken-Drumstick+Chicken-Chatpata-Pakora.jpg?format=webp",
   "name":"Chicken Drumstick - Pack Of 6 & Chicken Chatpata Pakora Combo",
   "weight":"900gms",
-  "price":477,
+  "price":"₹477",
   "type":"Combos",
   "bone":"Without bone",
   "size":"large",
@@ -526,7 +526,7 @@
   "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3e24cc39-9900-c195-0289-67dc720c76e6/original/CBBCBCS.jpg?format=webp",
   "name":"Chicken Breast Fillet & Chunky Butter Chicken Spread Combo",
   "weight":"450gms",
-  "price":457,
+  "price":"₹457",
   "type":"Combos",
   "bone":"Without bone",
   "size":"large",
@@ -541,7 +541,7 @@
   "imgUrl":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_1xtke42o3dz/1/prod_display_image/1599551867.8131--2020-09-0813:27:47--472?format=webp",
   "name":"Chicken Breast Boneless (450gms) and Chicken Drumstick - Pack Of 6 Combo",
   "weight":"450gms",
-  "price":530,
+  "price":"₹530",
   "type":"Combos",
   "bone":"Without bone",
   "size":"large",
@@ -556,7 +556,7 @@
   "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/242a6520-4fd9-692e-7708-5e09f0a96e43/original/Kozhi-Milagu-Varuval-(Chicken-Pepper-Dry)--Tag.jpg?format=webp",
   "name":"Chicken Pepper Dry | Ready To Cook",
   "weight":"500gms",
-  "price":269,
+  "price":"₹269",
   "type":"Ready to cook",
   "bone":"Without bone",
   "size":"large",
@@ -571,7 +571,7 @@
   "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/d35e8cfa-3e43-2df4-ec90-797c6c1e3d46/original/Peppery-Chicken-Salami-1.jpg?format=webp",
   "name":"Peppery Chicken Salami| Ready to Eat",
   "weight":"200gms",
-  "price":315,
+  "price":"₹315",
   "type":"Ready to cook",
   "bone":"Without bone",
   "size":"large",
@@ -586,7 +586,7 @@
   "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/92457f9b-9683-352e-22d1-166514f60c26/original/250gms_(2).jpg?format=webp",
   "name":"Hyderabadi Chicken Biryani | Meat & Masala Mix",
   "weight":"500gms",
-  "price":399,
+  "price":"₹399",
   "type":"Ready to cook",
   "bone":"Without bone",
   "size":"large",
@@ -601,7 +601,7 @@
   "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/79c12695-de31-056b-0f0e-b6572b609eb1/original/Chicken-Breast-Fillet---Thinly-Sliced-.jpg?format=webp",
   "name":"Chicken Breast Fillet - Thinly Sliced",
   "weight":"450gms",
-  "price":339,
+  "price":"₹339",
   "type":"bonless & mince",
   "bone":"Without bone",
   "size":"large",
@@ -616,7 +616,7 @@
   "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3e9023d4-e2f7-2fe6-c68f-75014733ff7e/original/Chicken_Mince_Large_Pack_Hero_Shot.jpg?format=webp",
   "name":"Chicken Mince (Keema)",
   "weight":"450gms",
-  "price":299,
+  "price":"₹299",
   "type":"bonless & mince",
   "bone":"Without bone",
   "size":"large",
@@ -916,7 +916,73 @@
           "description" : "Our Ready-to-Cook Prawn Masala Fry is slightly sweet, mildly spicy, ever so tangy and extremely delicious! Nothing could be more satisfying than juicy prawns ready in less than 8 minutes, right?"
       }
     
-  ]
+  ],
+
+  "shopBYCategory" : [
+    {
+        "id":"1",
+        "title":"Today's Deals",
+        "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/cb6e4eb8-6aec-7872-1638-0c2cf7970b71/original/Todays_Deals.png"
+    },
+
+    {
+      "id":"2",
+      "title":"Chicken",
+      "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/34466dbd-a515-edd1-3e99-05000f217cb6/original/Chicken_(2).png"
+  },
+
+  {
+    "id":"3",
+    "title":"Fish & Seafood",
+    "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/caac432f-545f-f03f-ce10-3b911916da70/original/FIsh_(1).png"
+},
+
+{
+  "id":"4",
+  "title":"Mutton",
+  "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/3a3d173d-5537-dafc-0be4-dec0791dcd24/original/MUT.png"
+},
+{
+  "id":"5",
+  "title":"Ready to Cook",
+  "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/21653c3a-4d6d-da71-2432-6833b88e9629/original/RC.png"
+},
+{
+  "id":"6",
+  "title":"Prawns",
+  "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/f4053965-f199-80a0-2551-d85d712574e2/original/Prawn_(2).png"
+},
+{
+  "id":"7",
+  "title":"Cold Cuts",
+  "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/49a8dd0c-7254-0b89-b348-b57281c76f5a/original/Coldcuts_(2).png"
+},
+{
+  "id":"8",
+  "title":"Spreads",
+  "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/d9a97969-ebd7-977c-e676-b343a18d7318/original/SPD.png"
+},
+{
+  "id":"9",
+  "title":"Eggs",
+  "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/1bd08fae-c971-390a-ce8a-6f6502f5bd0d/original/Eggs_(1).png"
+},
+{
+  "id":"10",
+  "title":"Biryani & Kebab",
+  "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/0b7ccd0f-0811-c38b-5420-0317c8006bda/original/Biryani_(2).png"
+},
+{
+  "id":"11",
+  "title":"Combos",
+  "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/69b72338-4180-2631-b175-04265b1e5c7a/original/Combo_(2).png"
+},
+{
+  "id":"12",
+  "title":"Plant-Based-Meat",
+  "img":"https://dao54xqhg9jfa.cloudfront.net/OMS-Category/66e49926-d949-dfb3-2e79-8052d07f0a3b/original/PBM_6_(8).png"
+}
+]
    
     
     
