@@ -627,7 +627,296 @@
 }
 
 
-    ]
+    ],
+
+    "Fish&SeaFood": [
+        
+      {
+          "id": 1 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ee13648e-9fee-f2f8-9ac5-ba1f99e4c215/original/p2_tile_images_6th_folder-03_(3).jpg?format=webp" , 
+          "name" :"Rohu (Rui) Small - Bengali Cut, No Head" ,  
+          "weight" :"500gms" , 
+          "price" :"₹235" ,
+          "type" :"Freshwater" ,
+          "bone" :"withbone" ,
+           "size" :"small" ,
+           "suited" :"deepfry" ,
+          "des" :"Freshwater fish, small sized, cleaned & cut, without head, bengali cut" ,
+          "description" : "Cleaned and gutted, the Rohu is sliced perpendicular to the spine to get the Bengali Cut. Caught from  freshwaters, Rohu has a mild flavour, a smooth texture, and is a rich source of calcium, proteins, and omega-3 fatty acids. Compared to other fish, the Rohu is fattier, which enhances its flavour when fried or slow-cooked in curries. The Bengali Cut pieces are ideal for curries, pan-fried, or baked dishes. You can now buy the Rohu cuts online from Licious with just a few clicks."
+      },
+      
+      
+      {
+        "id": 2,
+        "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/4cd38ee9-44d9-3413-5954-a3c2436b1f65/original/p2_tile_images_6th_folder-39.jpg?format=webp",
+      "name":"Pearl Spot (Karimeen/Pattai) Medium Whole, Cleaned With Head",
+     
+      "weight": "250gms"  ,
+      "price":"₹169" ,
+      "type":"Freshwater" ,
+      "bone":"withbone" , 
+      "size":"small" ,
+      "suited":"grill" ,
+      "des":"Head-removed, gutted &amp; cleaned, slim, silvery skinned...",
+      "description" :"An authentic Keralite delicacy, the Pearl Spot is popular for its appearance and interesting flavour profile. We bring them to you straight from the backwaters, offered whole and gutted, so you can relish the richness and texture of this fish. Establish your connection with Kerala cuisine with this gem, prized by seafood lovers everywhere."
+      },
+
+      {
+          "id": 3 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/1ea5ff1f-52f3-c7aa-953a-a4d287e40247/original/p0_tile_images-15_(2).jpg?format=webp" , 
+          "name" :"Catla (Theppu) Medium - Bengali Cut, No Head" ,  
+          "weight" :"500gms" , 
+          "price" :"₹339" ,
+          "type" :"Freshwater" ,
+          "bone" :"withbone" ,
+           "size" :"large" ,
+           "suited" :"curry" ,
+          "des" :"Cut, cleaned & fresh; we make our fish fly to you" ,
+          "description" : "A popular fish among the Bengali and Oriya communities. It's cooked into Bengali-style curries or jhols and spicy jhals or bhajas/fry-ups. Pair it with a hot bowl of rice and daal and you've got yourself a complete meal.Licious fish & seafood is sourced from approved local fishermen everyday; they contain no added chemicals."
+      },
+      {
+          "id": 4 , 
+          "imgUrl":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_123kq19agfk/1/prod_display_image/1632811803.1135--2021-09-2812:20:03--1818" , 
+          "name" :"Flower Shrimp/ Seegadi (Medium) " ,  
+          "weight" :"250gm" , 
+          "price" :"₹585" ,
+          "type" :"Freshwater" ,
+          "bone" :"withoutBone" ,
+           "size" :"medium" ,
+           "suited" :"deepfry" ,
+          "des" :"Juicy & delicious, perfect for pakoras and pan-fried dishes" ,
+          "description" : "Commonly used in South Indian & South East Asian cuisine, the Flower Shrimp or the Bamboo Shrimp originates from fast-moving rivers and streams within Southeast Asia as well as East & West coast of India . An ideal pick for delicious, hot pakoras, you can also pan-fry these juicy fresh-flavoured shrimps and add them to your salads. We offer them cleaned and deveined, ready for you to toss them straight to the pan!"
+      },
+
+      {
+          "id": 5 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/1d3e67ab-07dd-3f3b-9c38-ce72952f939e/original/p0_tile_images-10.jpg?format=webp" , 
+          "name" :"Basa ( Pangas)- Fillet, Platinum Grade" ,  
+          "weight" :"450gms" , 
+          "price" :"₹409" ,
+          "type" :"Freshwater" ,
+          "bone" :"withoutBone" ,
+           "size" :"large" ,
+           "suited" :"roast" ,
+          "des" :"From unpolluted Indian waters, freshly cleaned, creamy textured fillets of premium basa" ,
+          "description" : "The Licious Platinum Grade Basa Fillets are sliced lengthwise along one side of the fish parallel to the spine. Freshly caught from the Indian freshwaters, Basa is rich in omega-3 fatty acids and proteins. It is also known as Pangas and has a moist, medium-firm texture with a moderate flavour. Ideal for grilled, pan-fried, or baked dishes, this fish is an excellent choice if you are new to seafood. Buy Basa Fillets online and get doorstep delivery."
+      },
+
+
+      
+      {
+          "id": 6 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ff1b9a28-7414-3cc0-dbd0-5a52b64e5d5e/original/p1_tile_images-36.jpg?format=webp" , 
+          "name" :"Roopchand (Chanduva) - Steaks" ,  
+          "weight" :"500gms" , 
+          "price" :"₹327" ,
+          "type" :"Freshwater" ,
+          "bone" :"withbone" ,
+           "size" :"large" ,
+           "suited" :"curry" ,
+          "des" :"A Bengali favourite, this freshwater pomfret has sweet-tasting meat and minimal bones." ,
+          "description" : "A must have for all with an affinity for Bengali cuisine. These freshwater fish make the best comfort food. Distinguished by their pale white meat and delightfully sweet taste, these steaks are carved to perfection to offer you the best experience of this flavoursome fish. Go ahead and make a favourite of this fish."
+      },
+
+      {
+          "id": 7 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/5af4ae39-7629-bc5f-65cc-78e1239147c5/original/1624645711.jpg?format=webp" , 
+          "name" :"Tiger Prawns/ Seegadi (Extra Large) - Cleaned & Deviened, With Tail" ,  
+          "weight" :"250gms" , 
+          "price" :"₹520" ,
+          "type" :"Seawater" ,
+          "bone" :"withoutBone" ,
+           "size" :"large" ,
+           "suited" :"grill" ,
+          "des" :"Large and flavoursome prawns, peeled & deveined" ,
+          "description" : "Abundantly found in the shallow west coasts of India, the Giant Tiger Prawn is large and flavoursome. It has white flesh, and firm yet tender, moist taste. It is available peeled & deveined. Ideal for making mouthwatering jumbo prawn curry or even fried jumbo prawns."
+      },
+
+      {
+          "id": 8 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f542e07a-5efc-e430-8188-9a5abb4415eb/original/p2_tile_images_7th_folder-44.jpg?format=webp" , 
+          "name" :"Yellowfin Tuna (Kera) Small - Boneless Cubes" ,  
+          "weight" :"500gms" , 
+          "price" :"₹760" ,
+          "type" :"Seawater" ,
+          "bone" :"withoutBone" ,
+           "size" :"small" ,
+           "suited" :"deepfry" ,
+          "des" :"Skinned, mild tasting, fleshy, boneless cubes of seawater tuna with a characteristic yellow fin." ,
+          "description" : "Our medium-sized Yellowfin Tuna Cubes are neatly diced from slices of Tuna cut perpendicular to the spine. These boneless and skinless cubes have a bright-red meaty texture that turns flaky and slightly moist when cooked. Considered as light meat, the Yellowfin Tuna is low on fat as compared to other fishes and has a moderate flavour. Ideal for baked, fried, or curry dishes, these Tuna Cubes are a perfect choice if you prefer boneless fish. Buy online from Licious and get fresh Yellowfin Tuna Cubes delivered at your doorstep."
+      },
+
+      {
+          "id": 9 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/ProductMerchantdising/de0c9405-3251-03a3-6390-c3c105a98669/original/1596176297.699--2020-07-3111_48_17--738.jpeg?format=webp" , 
+          "name" :"Mahi Mahi (Dorado/Parla) - Boneless Cubes" ,  
+          "weight" :"500gms" , 
+          "price" :"₹200" ,
+          "type" :"Seawater" ,
+          "bone" :"withoutBone" ,
+           "size" :"large" ,
+           "suited" :"deepfry" ,
+          "des" :"Pink fleshed, flaky-textured, firm, skinned &amp; boned cubes of mild tasting saltwater Mahi Mahi." ,
+          "description" : "Expertly cut cubes of Mahi Mahi from Licious are skinned and boneless. Also known as Pulli Motha, Avanose and Bat, Mahi Mahi has a mild sweet taste and moist texture. A good source of vitamins and minerals, the Mahi Mahi Fish is also a great choice for a lean protein meal. The cubes can be perfect for pan-frying or grilling. These boneless cubes are also   ideal for making Fish tikka or curries. Order Mahi Mahi Boneless Cubes online from Licious and get home delivery. "
+      },
+
+      {
+          "id": 10 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/35aab7f5-868b-cb3c-4c4f-d2be3e61653d/original/p2_tile_images-30.jpg?format=webp" , 
+          "name" :"Black Pomfret  (Paplet/Avoli/Chandi/Manji) Small - Steaks" ,  
+          "weight" :"300gms" , 
+          "price" :"₹300" ,
+          "type" :"Seawater" ,
+          "bone" :"withoutBone" ,
+           "size" :"large" ,
+           "suited" :"curry" ,
+          "des" :"Delicately flavoured seawater fish, cut into steaks" ,
+          "description" : "The Black Pomfret, also popularly known as Halwaa Fish, is a rich source of proteins and omega-3 fatty acids. Cut perpendicular to the spine, these Black Pomfret Steaks come with the skin intact. These steaks offer a delicate flavour and a firm texture while being one of the fleshiest cuts from this fish. They are ideal for pan-fried or baked dishes."
+      },
+
+      {
+          "id": 11 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c3404387-a3d6-042a-a5c2-3ee575bd72b8/original/p2_tile_images_5th_folder-17.jpg?format=webp" , 
+          "name" :"Pink Perch (Kendai/Madumagala) Small Whole, Cleaned With Head" ,  
+          "weight" :"254gms" , 
+          "price" :"₹197" ,
+          "type" :"Seawater" ,
+          "bone" :"withoutBone" ,
+           "size" :"medium" ,
+           "suited" :"roast" ,
+          "des" :"Scaled and gutted, evenly cut yellow striped seawater..." ,
+          "description" : "This seawater fish is known for its unique pink tinge and interesting flavour profile. Offered whole and gutted, the Pink Perch is widley liked by seafood lovers for its remarkable mild, sweet taste. Give it a try and you'll find out why it is so popular!"
+      },
+
+      {
+          "id": 12 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b43576d0-5d05-c020-e545-2afbbe2de34e/original/1621148996.jpg?format=webp" , 
+          "name" :"Seer (Surmai/Vanjaram) - Thin Slices" ,  
+          "weight" :"300gms" , 
+          "price" :"₹407" ,
+          "type" :"Seawater" ,
+          "bone" :"withoutBone" ,
+           "size" :"large" ,
+           "suited" :"grill" ,
+          "des" :"Pink, firm, fleshy saltwater Seer steaks with central vertebrae intact." ,
+          "description" : "The reigning universal favourite! Cut into firm, delectable steaks, the unmistakable sharp flavour is bound to gratify and satisfy a great deal. Beautifully carved and handled carefully, bite into the welcoming taste of pure and rich, just-off-the-water seer. It isn't considered one of the popular fishes for nothing." 
+
+          
+      },
+
+      {
+          "id": 13 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/0118552d-3224-6151-8967-e0f8c322b394/original/Fish-Tikka-Tag.jpg?format=webp" , 
+          "name" :"Fish Tikka | Ready to Cook" ,  
+          "weight" :"350gms" , 
+          "price" :"₹317" ,
+          "type" :"Readytocook" ,
+          "bone" :"withoutBone" ,
+           "size" :"small" ,
+           "suited" :"deepfry" ,
+          "des" :"Spicy cuts of basa fillets, crafted our Nakhrebaaz chefs" ,
+          "description" : "Our Nakhrebaaz chefs present ready-to-cook Fish Tikka made from boneless basa fillets, pre-marinated in mustard oil, kasundi mustard, seasonings like lemon, honey and other spices.It is mildly spicy and can be baked, grilled, or pan-fried. They can be eaten as a delicious snack or as a starter to any meal."
+      },
+
+      {
+          "id": 14 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/8c1add24-1370-e120-1e27-fc64fb4efeb7/original/Amritsari-Fish-Ready_to_Cook.jpg?format=webp" , 
+          "name" :"Achari Fish Tikka | Ready to Cook" ,  
+          "weight" :"300gms" , 
+          "price" :"₹127" ,
+          "type" :"Readytocook" ,
+          "bone" :"withoutBone" ,
+           "size" :"medium" ,
+           "suited" :"deepfry" ,
+          "des" :"Boneless cubes of basa coated in a tangy, spicy batter." ,
+          "description" : "Boneless cubes of fresh basa fish, coated in a tangy & spicy batter of ajwain (carrom seed), white vinegar, red chillies, raw mango and other herbs & spices. Licious Amritsari fish is ready to cook, so all you need to do is deep fry it for a few minutes until golden brown and serve with a sprinkle of chaat masala & squeeze of lime."
+      },
+
+      {
+          "id": 15 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9d671a73-13fb-f476-68e9-4582e1d3d91a/original/Indian_marinades-03.jpg?format=webp" , 
+          "name" :"Fish Tawa Fry (Rohu) | Ready to Cook" ,  
+          "weight" :"350gms" , 
+          "price" :"₹627" ,
+          "type" :"Readytocook" ,
+          "bone" :"withoutBone" ,
+           "size" :"medium" ,
+           "suited" :"deepfry" ,
+          "des" :"Slices of Rohu marinated in classic Indian spices" ,
+          "description" : "What could be better than crispy, fresh & flavourful fish ready in under 8 minutes? That’s precisely what you get with our Ready-to-Cook Fish Tawa Fry. Enjoy thinly sliced Rohu marinated in spices like coriander, black pepper, Kashmiri chilli powder and ginger/garlic paste."
+      },
+
+      {
+          "id": 16 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/54a88df7-f669-140f-230c-92f1f1db07ff/original/Crispy-Prawns-_-Tagjpg.jpg?format=webp" , 
+          "name" :"Crispy Prawns | Ready to Cook" ,  
+          "weight" :"200gms" , 
+          "price" :"₹400" ,
+          "type" :"Readytocook" ,
+          "bone" :"withoutBone" ,
+           "size" :"small" ,
+           "suited" :"deepfry" ,
+          "des" :"Crumb-coated prawns, ready to be deep fried" ,
+          "description" : "Cleaned and deveined freshwater prawns (with tail) are gently tossed in a mixture of mildly spicy oils and seasonings. They're then batter-dipped, coated in a panko breadcrumb mixture and packed and sent to you! All you need to do is deep-fry them for 8 minutes, and serve! Super crispy on the outside and juicy on the inside."
+      },
+
+      {
+          "id": 17 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/dc4948fa-926b-3101-23e2-8abf25aeae02/original/p2_tile_images_7th_folder-05.jpg?format=webp" , 
+          "name" :"Three spotted Crab" ,  
+          "weight" :"350gms" , 
+          "price" :"₹220" ,
+          "type" :"crab" ,
+          "bone" :"withbone" ,
+           "size" :"small" ,
+           "suited" :"grill" ,
+          "des" :"The Three Spot Crab is a delicious seawater crab with succulent, sweet and flaky meat." ,
+          "description" : "The Three-spot Crab inhabits the sandy muddy waters in tropical climates. It is known for the presence of 3 red spots in it's posterior half. It's white flesh is flaky and moist, and is delicately soft and sweet in taste."
+      },
+
+      {
+          "id": 18 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b11c2aa6-1e10-1494-e9d8-9ecc08a2f058/original/Blue-Crab-medium.jpg?format=webp" , 
+          "name" :"Blue Crab (Nandu/Aedi) Medium - Whole, Cleaned" ,  
+          "weight" :"500gms" , 
+          "price" :"₹290" ,
+          "type" :"crab" ,
+          "bone" :"withbone" ,
+           "size" :"medium" ,
+           "suited" :"curry" ,
+          "des" :"Get cleaned Blue Crab (Male/Female). Use them for crab curry...." ,
+          "description" : "Blue Crab or Blue Swimmer Crab is also called Nandu or Aedi in some parts of India. Don’t be confused, while male and female Blue Crabs look different, they taste almost identical. This pack contains both male and female Blue Crabs."
+      },
+
+      {
+          "id": 19 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/72ea4664-ba4e-3a5f-82be-c2cfc78385fb/original/Crispy-Fish-Fillet---HeroTag.jpg?format=webp" , 
+          "name" :"Crispy Fish Fillet | Ready To Cook" ,  
+          "weight" :"200gms" , 
+          "price" :"₹499" ,
+          "type" :"Readytocook" ,
+          "bone" :"withbone" ,
+           "size" :"small" ,
+           "suited" :"deepfry" ,
+          "des" :"Mahi Mahi fish fillets, batter-dipped & crumb-coated" ,
+          "description" : "A perfectly breaded, juicy fried fish is hard to get right, but our ready-to-fry Crispy Fish Fillets make it super easy for you! Mahi Mahi fillets are marinated in hot chilli seasoning, batter-dipped and then coated in panko breadcrumbs. They’re then packed into an airtight box and kept chilled, not frozen, through its journey to you."
+      },
+
+      {
+          "id": 20 , 
+          "imgUrl":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9373a9e6-dc46-f249-43ba-ffe7b192bd29/original/Indian_marinades-01.jpg?format=webp" , 
+          "name" :"Masala Prawn Fry | Ready to Cook" ,  
+          "weight" :"225gms" , 
+          "price" :"₹500" ,
+          "type" :"Readytocook" ,
+          "bone" :"withbone" ,
+           "size" :"medium" ,
+           "suited" :"roast" ,
+          "des" :"Crunchy & spicy Ready-to-Cook freshwater prawns." ,
+          "description" : "Our Ready-to-Cook Prawn Masala Fry is slightly sweet, mildly spicy, ever so tangy and extremely delicious! Nothing could be more satisfying than juicy prawns ready in less than 8 minutes, right?"
+      }
+    
+  ]
    
     
     
